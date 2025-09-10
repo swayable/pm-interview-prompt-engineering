@@ -1,0 +1,72 @@
+breakdown,segment
+Age,18-34
+Age,35-54
+Age-Gender Splits,Men 18-24
+Age-Gender Splits,Men 25-44
+Age-Gender Splits,Women 18-24
+Age-Gender Splits,Women 25-44
+Annual Household Income,$100k-$150k
+Annual Household Income,$40k-$80k
+Annual Household Income,<$40k
+Custom Segments,DC/Northeast Corridor
+Custom Segments,Opinion Elites (Broad)
+Custom Segments,Opinion Elites (Narrow)
+Customers,Canada Goose
+Customers,Carhartt
+Customers,Columbia Sportswear
+Customers,L.L. Bean
+Customers,Lululemon
+Customers,None of These
+Customers,Patagonia
+Customers,The North Face
+Education,College
+Education,Non-University
+Education,Postgrad
+Environmentally Conscious Shoppers,Environmentally Conscious Shoppers
+Environmentally Conscious Shoppers,Low
+Ethnicity,Asian & Pacific Islander
+Ethnicity,Black
+Ethnicity,Latinx
+Ethnicity,Other
+Ethnicity,White
+Fashion/Fit Shoppers,Fashion/Fit Shoppers
+Fashion/Fit Shoppers,Low
+Gender,Men
+Gender,Women
+Job Level,Management or executive position
+Job Level,Non-management position
+Job Level,Not relevant
+Job Level,Self-employed
+Job Sector,Government / public sector
+Job Sector,Healthcare
+Job Sector,Journalism / media / entertainment
+Job Sector,Not relevant
+Job Sector,Other
+Job Title,"CEO, CMO, COO or other C-level executive"
+Job Title,Director
+Job Title,Junior staff
+Job Title,Other
+Job Title,Project Manager        
+Job Title,Senior Director
+Job Title,Senior Vice President
+Job Title,Team Manager
+Job Title,Vice President
+News Consumption,"More than once a day,"
+News Consumption,Once a day
+News Consumption,Rarely
+News Consumption,Several times a week
+News Consumption,Weekly
+Outdoor Activities,I do a lot of outdoor activities
+Outdoor Activities,I do some outdoor activities
+Outdoor Activities,I don’t do outdoor activities
+Overall,Overall
+Urbanization,City
+Urbanization,Rural
+Urbanization,Suburb
+Value Shoppers,Low
+Value Shoppers,Value Shoppers
+Age,55+
+Age-Gender Splits,Men 45-64
+Age-Gender Splits,Men 65+
+Age-Gender Splits,Women 45-64
+Age-Gender Splits,Women 65+
